@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89663eca-5e45-4f23-9119-d80cc06577ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/D.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/D.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1fH81KZt6Icr5Vi6HoKAcKxRHly" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89663eca-5e45-4f23-9119-d80cc06577ee" name="Default Changelist" comment="" />
+      <created>1595863440443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595863440443</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="-811" key="NewPhpClassDialog" timestamp="1595863488455">
+      <screen x="-293" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="453" y="-811" key="NewPhpClassDialog/0.0.1280.800/-293.-1080.1920.1080@-293.-1080.1920.1080" timestamp="1595863488455" />
+    <state x="198" y="-901" key="SettingsEditor" timestamp="1595863450907">
+      <screen x="-293" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="198" y="-901" key="SettingsEditor/0.0.1280.800/-293.-1080.1920.1080@-293.-1080.1920.1080" timestamp="1595863450907" />
+    <state x="-100" y="-745" width="1440" height="746" maximized="true" key="dock-window-1" timestamp="1595865393969">
+      <screen x="-293" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="-100" y="-745" width="1440" height="746" maximized="true" key="dock-window-1/0.0.1280.800/-293.-1080.1920.1080@-293.-1080.1920.1080" timestamp="1595865393969" />
+  </component>
+</project>

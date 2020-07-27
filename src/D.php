@@ -18,7 +18,7 @@ class D
 
     static function print_r($data)
     {
-        static::$_bucket[] = self::print_r($data, true);
+        static::$_bucket[] = print_r($data, true);
     }
 
     static function printf(...$data)
@@ -38,6 +38,14 @@ class D
         foreach (static::$_bucket as $line) {
             echo $line."\n";
         }
+    }
+
+    static function dumpJSON(){
+        echo json_encode(static::$_bucket);
+    }
+
+    static function dumpInConsole(){
+
     }
 
 }
